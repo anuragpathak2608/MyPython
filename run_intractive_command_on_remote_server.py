@@ -1,8 +1,8 @@
 import paramiko
 
-username = "root"
-password = "T*s1byte"
-serverip = "10.11.15.64"
+username = "YOURUSERNAME"
+password = "YOURPASSWORD"
+server_ip = "YOURIP"
 
 ssh_client = paramiko.SSHClient()
 ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
