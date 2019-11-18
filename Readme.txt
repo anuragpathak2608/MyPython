@@ -20,3 +20,6 @@ Suppose there is a prechecks that you want to copy host file or some backup file
 6. run_intractive_command_on_remote_server.py
 There are certain commands that required input from users in such case you have to feed that input to the script. Ex. If you want to run a commnad with sudo privilages then you have to enter the passowrd for the successfully interation. This program will demonstrate the case.
 
+7. wahts_my_ip_address.py
+This is program calls the public API "https://helloacm.com/what-is-my-ip/" which returns the Public ipaddres of the machine where the codes is executed.
+This API returns the IP address in JSON format.
