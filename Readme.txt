@@ -23,3 +23,6 @@ There are certain commands that required input from users in such case you have 
 7. wahts_my_ip_address.py
 This is program calls the public API "https://helloacm.com/what-is-my-ip/" which returns the Public ipaddres of the machine where the codes is executed.
 This API returns the IP address in JSON format.
+
+8. basics_python_syntax.py
+this is the basic program which shows, multi line string, multiine comment, how to take a input from the user, continuation charater for long string. suits and indentation requirement.
