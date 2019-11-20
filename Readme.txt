@@ -32,4 +32,11 @@ This program gives the basics of python stirng and slicing of substring from the
 
 10. python_variables_and_datatypes.py
 This programs gives an overview of python variables and how can we store single value to multiple variable or diffrent value to diffrent variable in the same line.
-This is used when you os command can return standard output or it may return erro. So here we will be capturing same output in3 diffrent variables.
+This is used when you os command can return standard output or it may return erro. So here we will be capturing same output in3 diffrent variables
+
+11. Python_Leap_year_program.py
+This program is demonstrating if else syntax in python
+
+
+
+
