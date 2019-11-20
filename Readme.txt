@@ -26,3 +26,10 @@ This API returns the IP address in JSON format.
 
 8. basics_python_syntax.py
 this is the basic program which shows, multi line string, multiine comment, how to take a input from the user, continuation charater for long string. suits and indentation requirement.
+
+9. python_varialbes_string_slicing.py
+This program gives the basics of python stirng and slicing of substring from the string.
+
+10. python_variables_and_datatypes.py
+This programs gives an overview of python variables and how can we store single value to multiple variable or diffrent value to diffrent variable in the same line.
+This is used when you os command can return standard output or it may return erro. So here we will be capturing same output in3 diffrent variables.
