@@ -1,3 +1,7 @@
+
+#https://www.w3resource.com/python/python-list.php good Documnet
+
+
 '''this program is to demonstrate the use of list and inbuild fnction available for performing operations on list'''
 
 '''this declres the blank list'''
